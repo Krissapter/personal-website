@@ -1,0 +1,35 @@
+body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(to right, cornflowerblue,  cadetblue, white, white, white, white, white, white,  cadetblue, cornflowerblue);
+}
+.text{
+    font-size: 1.25vw;
+    padding: 1%;
+
+}
+#container{
+
+}
+
+#info{
+    width: 70%;
+    margin: 1rem 0;
+    padding: 1rem;
+}
+#info-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem;
+}
+#name{
+    font-size: 4vw;
+}
+#subjects{
+    font-size: 1.5vw;
+}
+#contact{
+
+}
